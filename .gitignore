@@ -1,0 +1,49 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle (optional)
+.gradle/
+build/
+
+# Local environment
+.env
+.env.local
+
+# Spring Boot
+application-dev.properties
+application-prod.properties
+
+# Log files
+*.log
+logs/
+
+# Database
+*.db
+*.h2.db
